@@ -2,7 +2,7 @@
 - 👀 I’m interested in Education 
 - 🌱 I’m currently learning idioms 
 - 💞️ I’m looking to collaborate on students 
-- 📫 How to reach me worl the best
+- 📫 How to reach me world the best. 
 
 <!---
 Edfrank10/Edfrank10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
